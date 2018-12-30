@@ -21,3 +21,5 @@ s
 s
 
 more changes from feauture branchtoo.
+
+all rights reserved
